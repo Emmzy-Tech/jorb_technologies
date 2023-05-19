@@ -21,12 +21,12 @@
                                     <div class="testimonial__item-header d-flex justify-content-between align-items-center mb-35 mb-sm-25 mb-xs-20">
                                         <div class="left d-flex align-items-center">
                                             <div class="media overflow-hidden">
-                                                <img src="assets/img/testimonial/testimonial-1.png" class="img-fluid" alt="">
+                                                <img src="assets/img/testimonial/testimonial-1.jpg" class="img-fluid" alt="">
                                             </div>
 
                                             <div class="meta">
-                                                <h6 class="name fw-500 text-uppercase color-d_black">Md Ashikul Islam </h6>
-                                                <span class="position font-la fw-500 color-d_black">Graphic Designer</span>
+                                                <h6 class="name fw-500 text-uppercase color-d_black">Emmanuel Onyenegbutu </h6>
+                                                <span class="position font-la fw-500 color-d_black">Software Engineer</span>
                                             </div>
                                         </div>
 
@@ -50,8 +50,7 @@
                                     <div class="testimonial__item-footer d-flex justify-content-between">
                                         <div class="socail-link">
                                             <ul>
-                                                <li><a href="#"><img src="assets/img/testimonial/discord.png" alt=""></a></li>
-                                                <li><a href="#"><img src="assets/img/testimonial/asana.png" alt=""></a></li>
+                                                <li><a href="#"><img src="assets/img/brand/brand-1.png" alt="" width="140px"></a></li>
                                             </ul>
                                         </div>
 
@@ -67,11 +66,11 @@
                                     <div class="testimonial__item-header d-flex justify-content-between align-items-center mb-35 mb-sm-25 mb-xs-20">
                                         <div class="left d-flex align-items-center">
                                             <div class="media overflow-hidden">
-                                                <img src="assets/img/testimonial/testimonial-1.png" class="img-fluid" alt="">
+                                                <img src="assets/img/testimonial/testimonial-1.jpg" class="img-fluid" alt="">
                                             </div>
 
                                             <div class="meta">
-                                                <h6 class="name fw-500 text-uppercase color-d_black">Md Ashikul Islam</h6>
+                                            <h6 class="name fw-500 text-uppercase color-d_black">Emmanuel Onyenegbutu </h6>
                                                 <span class="position font-la fw-500 color-d_black">Graphic Designer</span>
                                             </div>
                                         </div>
@@ -96,7 +95,7 @@
                                     <div class="testimonial__item-footer d-flex justify-content-between">
                                         <div class="socail-link">
                                             <ul>
-                                                <li><a href="#"><img src="assets/img/testimonial/asana.png" alt=""></a></li>
+                                            <li><a href="#"><img src="assets/img/brand/brand-2.png" alt="" width="140px"></a></li>
                                             </ul>
                                         </div>
 
@@ -112,11 +111,11 @@
                                     <div class="testimonial__item-header d-flex justify-content-between align-items-center mb-35 mb-sm-25 mb-xs-20">
                                         <div class="left d-flex align-items-center">
                                             <div class="media overflow-hidden">
-                                                <img src="assets/img/testimonial/testimonial-1.png" class="img-fluid" alt="">
+                                                <img src="assets/img/testimonial/testimonial-1.jpg" class="img-fluid" alt="">
                                             </div>
 
                                             <div class="meta">
-                                                <h6 class="name fw-500 text-uppercase color-d_black">Md Ashikul Islam</h6>
+                                            <h6 class="name fw-500 text-uppercase color-d_black">Emmanuel Onyenegbutu </h6>
                                                 <span class="position font-la fw-500 color-d_black">Graphic Designer</span>
                                             </div>
                                         </div>
@@ -141,7 +140,7 @@
                                     <div class="testimonial__item-footer d-flex justify-content-between">
                                         <div class="socail-link">
                                             <ul>
-                                                <li><a href="#"><img src="assets/img/testimonial/amazon.png" alt=""></a></li>
+                                            <li><a href="#"><img src="assets/img/brand/brand-3.png" alt="" width="140px"></a></li>
                                             </ul>
                                         </div>
 
@@ -157,11 +156,11 @@
                                     <div class="testimonial__item-header d-flex justify-content-between align-items-center mb-35 mb-sm-25 mb-xs-20">
                                         <div class="left d-flex align-items-center">
                                             <div class="media overflow-hidden">
-                                                <img src="assets/img/testimonial/testimonial-1.png" class="img-fluid" alt="">
+                                                <img src="assets/img/testimonial/testimonial-1.jpg" class="img-fluid" alt="">
                                             </div>
 
                                             <div class="meta">
-                                                <h6 class="name fw-500 text-uppercase color-d_black">Md Ashikul Islam</h6>
+                                            <h6 class="name fw-500 text-uppercase color-d_black">Emmanuel Onyenegbutu </h6>
                                                 <span class="position font-la fw-500 color-d_black">Graphic Designer</span>
                                             </div>
                                         </div>
@@ -186,7 +185,7 @@
                                     <div class="testimonial__item-footer d-flex justify-content-between">
                                         <div class="socail-link">
                                             <ul>
-                                                <li><a href="#"><img src="assets/img/testimonial/asana.png" alt=""></a></li>
+                                            <li><a href="#"><img src="assets/img/brand/brand-4.png" alt="" width="140px"></a></li>
                                             </ul>
                                         </div>
 
@@ -202,11 +201,11 @@
                                     <div class="testimonial__item-header d-flex justify-content-between align-items-center mb-35 mb-sm-25 mb-xs-20">
                                         <div class="left d-flex align-items-center">
                                             <div class="media overflow-hidden">
-                                                <img src="assets/img/testimonial/testimonial-1.png" class="img-fluid" alt="">
+                                                <img src="assets/img/testimonial/testimonial-1.jpg" class="img-fluid" alt="">
                                             </div>
 
                                             <div class="meta">
-                                                <h6 class="name fw-500 text-uppercase color-d_black">Md Ashikul Islam</h6>
+                                            <h6 class="name fw-500 text-uppercase color-d_black">Emmanuel Onyenegbutu </h6>
                                                 <span class="position font-la fw-500 color-d_black">Graphic Designer</span>
                                             </div>
                                         </div>
@@ -231,7 +230,7 @@
                                     <div class="testimonial__item-footer d-flex justify-content-between">
                                         <div class="socail-link">
                                             <ul>
-                                                <li><a href="#"><img src="assets/img/testimonial/amazon.png" alt=""></a></li>
+                                            <li><a href="#"><img src="assets/img/brand/brand-5.png" alt="" width="140px"></a></li>
                                             </ul>
                                         </div>
 

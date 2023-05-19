@@ -153,19 +153,15 @@
                                 <div class="main-menu">
                                     <ul>
                                         <li>
-                                            <a href="#">Home</a>
+                                            <a href="index.php">Home</a>
                                         </li>
                                         <li>
-                                            <a href="services.html">Our Services</a>
+                                            <a href="services.php">Our Services</a>
                                             
-                                            <ul>
-                                                <li><a href="services.html">Our Services 1</a></li>
-                                                <li><a href="services-2.html">Our Services 2</a></li>
-                                            </ul>
                                         </li>
                                         
-                                        <li><a href="about.html">About</a></li>
-                                                <li><a href="contact.html">Contact</a></li>
+                                        <li><a href="about.php">About</a></li>
+                                                <li><a href="contact.php">Contact</a></li>
                                         <li>
                                             <a href="our-project.html">Industries</a>
                                         </li>
@@ -205,21 +201,17 @@
         <nav class="sidebar-nav">
             <div class="navigation">
                 <div class="consulter-mobile-nav"> 
-                    <ul >
-                    <li>
-                                            <a href="#">Home</a>
+                <ul>
+                                        <li>
+                                            <a href="index.php">Home</a>
                                         </li>
                                         <li>
-                                            <a href="services.html">Our Services</a>
+                                            <a href="services.php">Our Services</a>
                                             
-                                            <ul>
-                                                <li><a href="services.html">Our Services 1</a></li>
-                                                <li><a href="services-2.html">Our Services 2</a></li>
-                                            </ul>
                                         </li>
                                         
-                                        <li><a href="about.html">About</a></li>
-                                                <li><a href="contact.html">Contact</a></li>
+                                        <li><a href="about.php">About</a></li>
+                                                <li><a href="contact.php">Contact</a></li>
                                         <li>
                                             <a href="our-project.html">Industries</a>
                                         </li>
@@ -227,7 +219,7 @@
                                             <a href="blog.html">Careers</a>
                                             
                                         </li>
-                    </ul>
+                                    </ul>
                 </div>
 
                 <div class="sidebar-nav__bottom mt-20">
