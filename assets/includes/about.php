@@ -27,7 +27,7 @@
                 <div class="col-lg-6">
                     <div class="our-company__content mt-md-50 mt-sm-40 mt-xs-35">
                         <span class="sub-title fw-500 color-red text-uppercase mb-sm-10 mb-xs-5 mb-20 d-block"><img src="assets/img/home/line.svg" class="img-fluid mr-10" alt=""> Know Our Company</span>
-                        <h2 class="title color-pd_black mb-20 mb-sm-15 mb-xs-10">We are dedicated to give you support.</h2>
+                        <h2 class="title color-pd_black mb-20 mb-sm-15 mb-xs-10">We are dedicated to supporting you</h2>
 
                         <div class="descriiption font-la mb-30 mb-md-25 mb-sm-20 mb-xs-15">
                             <p>We are all about impact and solutions for clients. We focus on and specialize in digital transformation, applications development, system analysis, and support, recruiting and placing the best amongst the best workforce for businesses, developing individual talents to reduce global skill gaps, and managing project activities.  From providing advisory to determine client needs to procuring and managing their supply chain, we demonstrate passion and dedication as we spend a great deal of time listening to our clients to determine the best ways we can help them meet their challenges.</p>

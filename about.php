@@ -18,7 +18,7 @@ include("./assets/includes/header.php");
 
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
-                          <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                          <li class="breadcrumb-item"><a href="index.png">Home</a></li>
                           <li class="breadcrumb-item active" aria-current="page">About Us</li>
                         </ol>
                     </nav>
@@ -105,15 +105,15 @@ include("./assets/includes/about.php");
 
             <div class="row mb-minus-30">
                 <div class="col-xxl-3 col-lg-4 col-md-6">
-                    <a href="team-details.html" class="team-item team-about-item text-center mb-30 d-block overflow-hidden">
+                    <a href="#" class="team-item team-about-item text-center mb-30 d-block overflow-hidden">
                         <div class="media">
-                            <img src="assets/img/about/about-member-1.png" class="img-fluid" alt="">
+                            <img src="assets/img/about/about-member-1.jpg" class="img-fluid" alt="">
                         </div>
 
                         <div class="text d-flex align-items-center justify-content-center">
                             <div class="left">
-                                <h5 class="title color-white">Stephen Larry</h5>
-                                <span class="position color-white font-la fw-500">Product Manager</span>
+                                <h5 class="title color-white">Emmanuel Onyenegbutu</h5>
+                                <span class="position color-white font-la fw-500">CEO</span>
                             </div>
 
                             <div class="right">
@@ -126,14 +126,14 @@ include("./assets/includes/about.php");
                 </div><!-- team-item -->
 
                 <div class="col-xxl-3 col-lg-4 col-md-6">
-                    <a href="team-details.html" class="team-item team-about-item text-center mb-30 d-block overflow-hidden">
+                    <a href="#" class="team-item team-about-item text-center mb-30 d-block overflow-hidden">
                         <div class="media">
-                            <img src="assets/img/about/about-member-1.png" class="img-fluid" alt="">
+                            <img src="assets/img/about/about-member-1.jpg" class="img-fluid" alt="">
                         </div>
 
                         <div class="text d-flex align-items-center justify-content-center">
                             <div class="left">
-                                <h5 class="title color-white">Nusrat Jahan</h5>
+                                <h5 class="title color-white">Emmanuel Onyenegbutu</h5>
                                 <span class="position color-white font-la fw-500">Assistent Manager, Finance</span>
                             </div>
 
@@ -147,14 +147,14 @@ include("./assets/includes/about.php");
                 </div><!-- team-item -->
 
                 <div class="col-xxl-3 col-lg-4 col-md-6">
-                    <a href="team-details.html" class="team-item team-about-item text-center mb-30 d-block overflow-hidden">
+                    <a href="#" class="team-item team-about-item text-center mb-30 d-block overflow-hidden">
                         <div class="media">
-                            <img src="assets/img/about/about-member-1.png" class="img-fluid" alt="">
+                            <img src="assets/img/about/about-member-1.jpg" class="img-fluid" alt="">
                         </div>
 
                         <div class="text d-flex align-items-center justify-content-center">
                             <div class="left">
-                                <h5 class="title color-white">Stephen Larry</h5>
+                                <h5 class="title color-white">Emmanuel Onyenegbutu</h5>
                                 <span class="position color-white font-la fw-500">Product Manager</span>
                             </div>
 
@@ -168,15 +168,15 @@ include("./assets/includes/about.php");
                 </div><!-- team-item -->
 
                 <div class="col-xxl-3 col-lg-4 col-md-6">
-                    <a href="team-details.html" class="team-item team-about-item text-center mb-30 d-block overflow-hidden">
+                    <a href="#" class="team-item team-about-item text-center mb-30 d-block overflow-hidden">
                         <div class="media">
-                            <img src="assets/img/about/about-member-1.png" class="img-fluid" alt="">
+                            <img src="assets/img/about/about-member-1.jpg" class="img-fluid" alt="">
                         </div>
 
                         <div class="text d-flex align-items-center justify-content-center">
                             <div class="left">
-                                <h5 class="title color-white">Stephen Larry</h5>
-                                <span class="position color-white font-la fw-500">Product Manager</span>
+                                <h5 class="title color-white">Emmanuel Onyenegbutu</h5>
+                                <span class="position color-white font-la fw-500">Data Analyist</span>
                             </div>
 
                             <div class="right">
@@ -189,13 +189,7 @@ include("./assets/includes/about.php");
                 </div><!-- team-item -->
             </div>
 
-            <div class="row">
-                <div class="col-12">
-                    <div class="our-team__btn-wrapper text-center mt-70 mt-md-50 mt-sm-40 mt-xs-30">
-                        <a href="team.html" class="theme-btn">See All Member <i class="far fa-chevron-double-right"></i></a>
-                    </div>
-                </div>
-            </div>
+            
         </div>
     </section>
     <!-- our-team end -->

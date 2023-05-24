@@ -9,7 +9,7 @@
             <div class="row justify-content-between">
                 <div class="col-md-6 col-xl-3">
                     <div class="single-footer-wid widget-description">
-                        <a href="index.html" class="d-block mb-30 mb-xs-20">
+                        <a href="index.png" class="d-block mb-30 mb-xs-20">
                         <img src="assets/img/logo/logo-3.png" alt="logo">
                         </a>
                         
@@ -26,10 +26,10 @@
                         <h4 class="wid-title mb-30 color-white">Quick Link</h4>
                         
                         <ul>
-                            <li><a href="about.html">About Company</a></li>
-                            <li><a href="services.html">Our Services</a></li>
+                            <li><a href="about.png">About Company</a></li>
+                            <li><a href="services.png">Our Services</a></li>
                             
-                            <li><a href="contact.html">Support</a></li>
+                            <li><a href="contact.png">Support</a></li>
                         </ul>
                     </div>
                 </div> <!-- /.col-lg-2 - single-footer-wid -->

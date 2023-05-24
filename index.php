@@ -18,8 +18,8 @@ include("./assets/includes/header.php");
                         </div>
 
                         <div class="theme-btn__wrapper d-flex flex-wrap">
-                            <a href="blog.html" class="theme-btn fw-600 btn-red">Contact Us <i class="far fa-chevron-double-right"></i></a>
-                            <a href="about.html" class="theme-btn fw-600 btn-white-border">Read More <i class="far fa-chevron-double-right"></i></a>
+                            <a href="contact.php" class="theme-btn fw-600 btn-red">Contact Us <i class="far fa-chevron-double-right"></i></a>
+                            <a href="about.php" class="theme-btn fw-600 btn-white-border">Read More <i class="far fa-chevron-double-right"></i></a>
                         </div>
                     </div>
 

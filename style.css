@@ -213,7 +213,7 @@ input, textarea, button {
 }
 
 .color-black {
-  color: #000 !important;
+  color: #FF9C00 !important;
 }
 
 .color-red {
@@ -10604,10 +10604,10 @@ header.hover-color-green .main-header-wraper .header-right .header-search .searc
   background-color: #FF9C00 !important;
 }
 .mobile-nav-red {
-  background-color: #4069FF
+  background-color: #002F6C;
 }
 .mobile-nav-red .navigation ul:not(.dropdown-menu) > li.dropdown .dropdown-menu {
-  background-color: #4069FF!important;
+  background-color: #002F6C!important;
 }
 .mobile-nav .close-nav {
   border: 0;
@@ -10752,7 +10752,7 @@ header.hover-color-green .main-header-wraper .header-right .header-search .searc
   margin-right: 10px;
 }
 .sidebar-nav__bottom-contact-infos ul li a .text h5 {
-  color: #000;
+  color: #FF9C00;
 }
 .sidebar-nav__bottom-contact-infos ul li:hover a, .sidebar-nav__bottom-contact-infos ul li:focus a {
   color: #FFF !important;

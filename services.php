@@ -62,7 +62,7 @@ include("./assets/includes/service.php");
                         </div>
 
                         <div class="global-country text-center">
-                            <div class="number mb-5 color-white"><span class="counter">120</span>+</div>
+                            <div class="number mb-5 color-white"><span class="counter">20</span>+</div>
                             <h6 class="title color-white font-la">Global Country in <br>Our Company</h6>
                         </div>
                     </div>

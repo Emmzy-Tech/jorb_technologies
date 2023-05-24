@@ -143,7 +143,7 @@
                         <div class="d-flex align-items-center justify-content-between">
                             <div class="header-logo">
                                 <div class="logo">
-                                    <a href="index.html">
+                                    <a href="index.png">
                                         <img src="assets/img/logo/logo-3.png" alt="logo">
                                     </a>
                                 </div>
@@ -163,12 +163,12 @@
                                         <li><a href="about.php">About</a></li>
                                                 <li><a href="contact.php">Contact</a></li>
                                         <li>
-                                            <a href="our-project.html">Industries</a>
+                                            <a href="industries.php">Industries</a>
                                         </li>
-                                        <li>
+                                        <!-- <li>
                                             <a href="blog.html">Careers</a>
                                             
-                                        </li>
+                                        </li> -->
                                     </ul>
                                 </div>
                             </div>
@@ -176,7 +176,7 @@
                             <div class="header-right d-flex align-items-center">
                             
 
-                                <a href="contact.html" class="header-btn">Get A Quote <i class="far fa-chevron-double-right"></i></a>
+                                <a href="contact.php" class="header-btn">Feedback<i class="far fa-chevron-double-right"></i></a>
                                 <div class="mobile-nav-bar d-block ml-3 ml-sm-5 d-xl-none">
                                     <div class="mobile-nav-wrap">                    
                                         <div id="hamburger">
@@ -213,12 +213,12 @@
                                         <li><a href="about.php">About</a></li>
                                                 <li><a href="contact.php">Contact</a></li>
                                         <li>
-                                            <a href="our-project.html">Industries</a>
+                                            <a href="industries.php">Industries</a>
                                         </li>
-                                        <li>
+                                        <!-- <li>
                                             <a href="blog.html">Careers</a>
                                             
-                                        </li>
+                                        </li> -->
                                     </ul>
                 </div>
 
